@@ -1,0 +1,13 @@
+﻿# Données (n'importe où dans le projet)
+*.csv
+*.parquet
+
+# Environnement
+env/
+venv/
+.env
+__pycache__/
+*.pyc
+
+# Checkpoints Jupyter
+.ipynb_checkpoints/
